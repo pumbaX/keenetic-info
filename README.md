@@ -14,7 +14,7 @@
 Для чего? Да просто похвастаться железом 😄
 
 ```bash
-curl -s https://raw.githubusercontent.com/pumbaX/keenetic-info/main/kn-info.sh | sh
+curl -fsSL https://raw.githubusercontent.com/pumbaX/keenetic-info/main/install.sh | sh
 ```
 
 
